@@ -1,0 +1,3 @@
+[submodule "langmodel/faster-rnnlm"]
+	path = langmodel/faster-rnnlm
+	url = https://github.com/yandex/faster-rnnlm
