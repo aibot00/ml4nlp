@@ -2,5 +2,5 @@
 	path = langmodel/faster-rnnlm
 	url = https://github.com/yandex/faster-rnnlm
 [submodule "tool/tool/bhtsne"]
-	path = tool/tool/bhtsne
+	path = tool/bhtsne
 	url = https://github.com/lvdmaaten/bhtsne
